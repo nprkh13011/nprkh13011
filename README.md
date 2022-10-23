@@ -5,6 +5,5 @@
 <p>
 ~ Python <br>
 ~ Java <br>
-~ HTML, CSS, Handlebars, SCSS <br>
-~ Javascript <br>
+~ HTML, CSS, Handlebars, Javascript <br>
 </p>
