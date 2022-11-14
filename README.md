@@ -6,7 +6,6 @@
 - Full-stack
 - UX/UI Design
  
-### Currently a 3/5 Computer Science major at Stevens Insitute of Technology! 
 ### Languages I have worked with in my respositories are... 
 - Python 
 - C/C++
